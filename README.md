@@ -1,0 +1,1 @@
+Desenvolvimento de uma página web utilizando HTML e CSS com base no link: https://www.figma.com/design/XEOQ5Ira4HDsQ5gmAEqj7A/%5BWEB%5D-Aula-02?node-id=0-1&p=f&t=HwduMQqn3Ygs3XmP-0 referente a Aula 1 - Fundamentos do Desenvolvimento Web
